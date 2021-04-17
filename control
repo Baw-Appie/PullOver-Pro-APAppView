@@ -1,0 +1,9 @@
+Package: com.rpgfarm.pulloverproapappview
+Name: PullOver Pro Keyboard Fix
+Version: 1.0
+Architecture: iphoneos-arm
+Description: PullOver Pro Keyboard Fix
+Maintainer: Baw Appie <pp121324@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.c1d3r.pulloverpro, com.rpgfarm.libapappview
